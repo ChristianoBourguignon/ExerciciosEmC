@@ -9,7 +9,7 @@ typedef struct {
 
 /* Em seguida, um tipo para a pilha */
 typedef struct {
-    TNO vnos[MAX];
+    TNOP vnos[MAX];
     int topo;
     int maximo;
 } TPILHA;
@@ -29,4 +29,5 @@ int push (TPILHA *ppilha, const TNOP *no);
 //Desempilha ou Pop
 int pop (TPILHA *ppilha, TNOP *no);
 
+#include "pilha.c"
 #endif

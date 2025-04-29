@@ -1,2 +1,4 @@
 # ninja log v6
 4	234	7670461170750751	CMakeFiles/ExerciciosPilhaeFila.dir/main.c.obj	c7f6a674c84f76b5
+68	625	7676520699706443	build.ninja	fe8e3493a2422ff9
+3	235	7676517580391916	CMakeFiles/ExerciciosPilhaeFila.dir/ex1.c.obj	ebec605cd9edaca4

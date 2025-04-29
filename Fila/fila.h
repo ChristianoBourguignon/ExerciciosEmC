@@ -1,6 +1,6 @@
 #ifndef FILA_H
 #define FILA_H
-#define MAX 100
+#define MAX 4
 
 /* Primeiro, a definição de um tipo para o elemento */
 typedef struct {
@@ -32,4 +32,5 @@ int dequeue(TFILA*pfila,TNO *no);
 // Imprimir fila
 void imprimirFila(TFILA *pfila);
 
+#include "fila.c"
 #endif

@@ -19,7 +19,7 @@ void main() {
     cria_fila_vazia(&fila);
 
     // Enfileirar elementos
-    for (i = 0; i < 5; i++) {
+    for (i = 0; i < 4; i++) {
         no.info = valores[i];
         enqueue(&fila, no);
     }

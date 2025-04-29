@@ -1,0 +1,3 @@
+J:/Projetos/ExerciciosPilhaeFila/cmake-build-debug/CMakeFiles/ExerciciosPilhaeFila.dir
+J:/Projetos/ExerciciosPilhaeFila/cmake-build-debug/CMakeFiles/edit_cache.dir
+J:/Projetos/ExerciciosPilhaeFila/cmake-build-debug/CMakeFiles/rebuild_cache.dir
